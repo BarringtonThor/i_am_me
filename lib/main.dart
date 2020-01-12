@@ -6,7 +6,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Color.fromRGBO(19, 19, 19, 1),
         appBar: AppBar(
-          title: Text('I\'m Me'),
+          title: Text('I Am Me'),
           backgroundColor: Color.fromRGBO(29, 29, 29, 1),
           centerTitle: true,
           textTheme: TextTheme(
