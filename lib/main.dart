@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           textTheme: TextTheme(
             title: TextStyle(
+              fontFamily: 'Kalam',
               color: Color.fromRGBO(187, 122, 245, 1),
               fontSize: 30.0,
             ),
@@ -33,6 +34,7 @@ class MyApp extends StatelessWidget {
               Text(
                 'Barrington Thorpe',
                 style: TextStyle(
+                  fontFamily: 'Kalam',
                   fontSize: 30.0,
                   color: Color(0xff03DAC5),
                 ),
